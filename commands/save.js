@@ -1,5 +1,5 @@
 
-import { DigixNew } from '../utils/DigixNew.js';
+import { kayNew } from '../utils/kayNew.js';
 
 import { downloadMediaMessage } from 'baileys';
 
